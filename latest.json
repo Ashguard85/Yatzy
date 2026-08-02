@@ -1,0 +1,7 @@
+{
+  "version": "2.4.3",
+  "source": "uploads/yatzy-duell-2.4.3.zip",
+  "sha256": "169f8130296695bf2f0def651b7a48966f085b1bbc324b8492bcfb853b2ca58e",
+  "frontend_context": "current/frontend",
+  "backend_context": "current/backend"
+}
